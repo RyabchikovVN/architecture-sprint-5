@@ -221,4 +221,4 @@ Your input ->  Расскажи о rasa
 2025-01-19 13:40:42 DEBUG    rasa.core.tracker_store  - No event broker configured. Skipping streaming events.
 2025-01-19 13:40:42 DEBUG    rasa.core.lock_store  - Deleted lock for conversation '8f7fdf067cc1484ab9e26f3b4f4fc9cb'.
 Архитектура ПО включает выбор структур, которые обеспечивают масштабируемость, гибкость и поддерживаемость приложения. Задайте конкретный вопрос по этой теме, и я помогу вам с информацией.
-Your input ->                                                                       
+Your input ->   
